@@ -140,8 +140,8 @@ This is my code :
 https://www.kaggle.com/shubhaprasad/pothole-image-classification
 
 #### Results
-Training Accuracy : 100%
-Testing Accuracy : 100%
+Training Accuracy : 99.8%
+Testing Accuracy : 99.4%
 
 #### Application
 The probability obtained as output after providing the required image as input can be used to give confidence(Machine level validation ) to a report (post) on Potholes type
@@ -170,8 +170,8 @@ This is my code :
 https://www.kaggle.com/shubhaprasad/waste-organic-recyclable
 
 #### Results
-Training Accuracy : 100%
-Testing Accuracy : 100%
+Training Accuracy : 99.4%
+Testing Accuracy : 99%
 
 #### Application
 The probability obtained as output after providing the required image as input can be used to give confidence(Machine level validation ) to a report (post) on Garabge type
@@ -197,8 +197,8 @@ This is my code :
 https://www.kaggle.com/shubhaprasad/roadwayflood
 
 #### Results
-Training Accuracy : 100%
-Testing Accuracy : 100%
+Training Accuracy : 99%
+Testing Accuracy : 98%
 #### Application
 The probability obtained as output after providing the required image as input can be used to give confidence(Machine level validation ) to a report (post) on Road Flood type
 
